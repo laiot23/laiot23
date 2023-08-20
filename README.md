@@ -1,5 +1,5 @@
-- 👋 Welcome to LAIOT!
-- 🚀 LAIOT is a joint collaboration between Aerial IOT and Lava DAO.
+- 👋 Welcome to Aerial IOT! an organization engaged in propelling innovations in the DEPIN space
+- 🚀 Through LAIOT, a joint collaboration between Aerial IOT and Lava DAO we are working on strengthening the helium network and building use cases on it by leveraging the Solana network infrastructure
 - 🌐 We have officially partnered with [@HNTDenver](https://github.com/HNTDenver) to propel [@helium](https://github.com/helium) network and its use cases to end users.
 - 📡 Our users will have access to personalized consoles.
 - 🗓️ We plan to deploy #IOT hotspots across #Denver #Texas #Dubai #INDIA.
